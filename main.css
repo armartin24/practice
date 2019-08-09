@@ -1,0 +1,13 @@
+* {
+  font-family: helvetica;
+  text-align: center;
+}
+
+h1 {
+  color: green;
+}
+#center {
+  text-align: left;
+  border-style: solid;
+  border-color: green;
+}
